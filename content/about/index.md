@@ -1,7 +1,7 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-author = "Hugo Authors"
+title = "About Me"
+description = "Passionate Angler and Fisheries Advocate"
+author = "Matthew Byrnes"
 date = "2019-02-28"
 layout = "about"
 +++
