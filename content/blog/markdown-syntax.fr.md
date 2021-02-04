@@ -1,5 +1,5 @@
 +++
-title = "Guide de syntaxe de Markdown"
+title = "Guide "
 description = "Exemple d'article présentant la syntaxe et le formatage de base de Markdown pour les éléments HTML."
 author = "Hugo Auteurs"
 date = "2019-03-11"
