@@ -103,61 +103,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://example.com/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,6 +199,61 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://example.com/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://example.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://example.com/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://example.com/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://example.com/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
                 />
   </url>
   
