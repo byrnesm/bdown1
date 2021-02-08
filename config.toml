@@ -18,7 +18,7 @@ disableLanguages        = []
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default"]
+  cssFiles              = ["default","css/custom.css"]
   jsFiles               = ["default"]
   highlightjs           = true
   highlightjsTheme      = ""
@@ -40,11 +40,11 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Scientific Angler"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
     header                = "The Scientific Angler"
@@ -56,7 +56,7 @@ disableLanguages        = []
     [params.intro.pic]
       src                 = "img/me.jpg"
       shape               = "circle"
-      width               = "200"
+      width               = "400"
       
 
   [params.sidebar]
@@ -167,3 +167,6 @@ disableLanguages        = []
   mastodon              = "example.com/@example"
   # Email
   email                 = "example"
+  
+
+

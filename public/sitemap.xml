@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/blog/markdown-syntax.fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -60,51 +55,6 @@
   <url>
     <loc>https://example.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/rich-content.fr/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/emoji-support.fr/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

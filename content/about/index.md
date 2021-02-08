@@ -4,22 +4,10 @@ description = "Passionate Angler and Fisheries Advocate"
 author = "Matthew Byrnes"
 date = "2019-02-28"
 layout = "about"
+
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+<img src="images/brook.jpeg" alt="" width="100px" height="200px" class="center">
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Hello, my name is Matthew Byrnes. I am currently a graduate student at the University of Southern Mississippi studying Coastal Sciences. I have a bachelors of science from Purdue Uiversity in West Lafayette, Indiana (HAIL PURDUE!). My roots can be traced back to the hills of southern Indiana where I spent most of my childhood fishing and playing in small creeks and streams. This sparked a passion for the hidden  "alien" world that lies below the waters surface. In the early days this fascination manifested in the form of a love for fishing. As I grew, so did the scope of my interest. Instead of just capturing fish I wanted to understand the world they inhabited. This led me to a undergraduate degree in Fisheries and Aquatic Sciences. During this time both my academic and fishing interests blossomed. I have been fortunate to explore fisheries from the upper peninsula of Michigan to the coasts of Costa Rica. The goal of this blog is to share my fishing adventures with others while also providing an academic perspective on fisheries.
