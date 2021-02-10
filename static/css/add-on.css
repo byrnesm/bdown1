@@ -22,3 +22,14 @@ body * [style*="background-image"] {
     -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img {
+  border: solid;
+  border-width: 15px;
+}
