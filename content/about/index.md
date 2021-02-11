@@ -6,7 +6,6 @@ date = "2019-02-28"
 layout = "about"
 
 +++
-
 <br>
 <img src="images/brook.jpg" alt=""class="center img" width="300px" height="500px"/>
 <br>
