@@ -54,9 +54,9 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/me.jpg"
-      shape               = "circle"
-      width               = "400"
+      src                 = "img/brook.jpg"
+      shape               = "square"
+      width               = "200"
       
 
   [params.sidebar]
