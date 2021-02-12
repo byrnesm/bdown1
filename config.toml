@@ -54,7 +54,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/brook.jpg"
+      src                 = "img/brook.JPG"
       shape               = "square"
       width               = "200"
       
