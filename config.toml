@@ -40,7 +40,7 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Scientific Angler"
+    navbarTitle         = "Scientific Angle"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
