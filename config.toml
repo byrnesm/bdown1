@@ -18,7 +18,7 @@ disableLanguages        = []
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default",""]
+  cssFiles              = ["default","add-on.css"]
   jsFiles               = ["default"]
   highlightjs           = true
   highlightjsTheme      = ""
