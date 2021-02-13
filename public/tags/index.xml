@@ -2,34 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Scientific Angler</title>
-    <link>https://example.com/tags/</link>
+    <link>https://focused-edison-06c1c9.netlify.app/tags/</link>
     <description>Recent content in Tags on The Scientific Angler</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://focused-edison-06c1c9.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flounder</title>
-      <link>https://example.com/tags/flounder/</link>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/flounder/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/flounder/</guid>
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/flounder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mississippi</title>
-      <link>https://example.com/tags/mississippi/</link>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/mississippi/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/mississippi/</guid>
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/mississippi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redfish</title>
-      <link>https://example.com/tags/redfish/</link>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/redfish/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/redfish/</guid>
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/redfish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://focused-edison-06c1c9.netlify.app/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/tags/emoji/</guid>
       <description></description>
     </item>
     

@@ -2,16 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Scientific Angler</title>
-    <link>https://example.com/categories/</link>
+    <link>https://focused-edison-06c1c9.netlify.app/categories/</link>
     <description>Recent content in Categories on The Scientific Angler</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://focused-edison-06c1c9.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>inshore</title>
-      <link>https://example.com/categories/inshore/</link>
+      <link>https://focused-edison-06c1c9.netlify.app/categories/inshore/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/inshore/</guid>
+      <guid>https://focused-edison-06c1c9.netlify.app/categories/inshore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://focused-edison-06c1c9.netlify.app/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://focused-edison-06c1c9.netlify.app/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://focused-edison-06c1c9.netlify.app/categories/themes/</guid>
       <description></description>
     </item>
     

@@ -3,57 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/categories/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/flounder/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/flounder/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/inshore/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/categories/inshore/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/flounder_pasc/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/flounder_pasc/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/mississippi/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/mississippi/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/redfish/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/redfish/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/markdown-syntax.fr/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/rich-content.fr/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/emoji-support.fr/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/blog/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://focused-edison-06c1c9.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://focused-edison-06c1c9.netlify.app/contact/</loc>
   </url>
   
 </urlset>

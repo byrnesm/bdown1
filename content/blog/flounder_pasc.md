@@ -6,7 +6,7 @@ date = "2021-02-09"
 tags = ["flounder", "redfish", "mississippi"]
 categories = ["inshore"]
 [[images]]
-  src = "/img/flounder.jpg"
+  src = "/img/flounder.jpeg"
   alt = "Mountain Range Through Clouds"
   class= "img"
 

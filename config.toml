@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+baseurl                 = "https://focused-edison-06c1c9.netlify.app/"
 DefaultContentLanguage  = "en"
 title                   = "The Scientific Angler"
 theme                   = "hugo-future-imperfect-slim"
@@ -18,7 +18,7 @@ disableLanguages        = []
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default",""]
+  cssFiles              = ["default","add-on.css"]
   jsFiles               = ["default"]
   highlightjs           = true
   highlightjsTheme      = ""
@@ -54,7 +54,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/brook.jpg"
+      src                 = "img/brook.JPG"
       shape               = "square"
       width               = "200"
       

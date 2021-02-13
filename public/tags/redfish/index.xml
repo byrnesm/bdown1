@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>redfish on The Scientific Angler</title>
-    <link>https://example.com/tags/redfish/</link>
+    <link>https://focused-edison-06c1c9.netlify.app/tags/redfish/</link>
     <description>Recent content in redfish on The Scientific Angler</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/redfish/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://focused-edison-06c1c9.netlify.app/tags/redfish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Late-winter Reds and Flounder</title>
-      <link>https://example.com/blog/flounder_pasc/</link>
+      <link>https://focused-edison-06c1c9.netlify.app/blog/flounder_pasc/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/flounder_pasc/</guid>
+      <guid>https://focused-edison-06c1c9.netlify.app/blog/flounder_pasc/</guid>
       <description>Well, I finally made it out for some winter fishing here in Mississippi. Kayak fishing often envolves getting wet and even a 50 degree day can prove challenging. Luckily, today we had a warming trend that got temps into the 70&amp;rsquo;s and provided some great fishing opportunities. So I packed up the kayak and hit the bayous along the Pascagoula. The shallow waters were warming faster, creating some very active redfish.</description>
     </item>
     
